@@ -35,7 +35,9 @@ body {
 }
 
 .nav-top a {
-  color: #000;
+  color: #fff;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    
 }
 
 /* ALL DEMO */
@@ -45,5 +47,11 @@ h1 {
 }
 
 .nav-top {
-  background: white;
+  background: #073154;;
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    margin-bottom: 0;
 }
